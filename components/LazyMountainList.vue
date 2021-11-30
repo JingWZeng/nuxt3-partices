@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <ul>
+      <li>四姑娘山</li>
+      <li>梧桐山</li>
+      <li>羊台山</li>
+    </ul>
+  </div>
+</template>
